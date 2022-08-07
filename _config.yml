@@ -1,0 +1,4 @@
+title: Shark attacks visualization with AWS & Toucan Toco
+description: "This a fictional web site created with the AWS blog post to showcase what you can achieve when combining Redshift Serverless and Toucan Toco"
+google_analytics:
+theme: jekyll-theme-cayman
