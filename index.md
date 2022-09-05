@@ -39,11 +39,11 @@ Want to see the outcome? Look at the following charts
 ### Launch Toucan trial and connect to Redshift Serverless
 
 <div style="text-align: center">
-<iframe width=1000rem height=600rem src="https://www.youtube.com/watch?v=rIcUjUKkz20" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width=1000rem height=600rem src="https://www.youtube.com/embed/rIcUjUKkz20" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ### Create your first visualization with Toucan
 
 <div style="text-align: center">
-<iframe width=1000rem height=600rem src="https://www.youtube.com/watch?v=pa6UJsmLxSA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width=1000rem height=600rem src="https://www.youtube.com/embed/pa6UJsmLxSA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
