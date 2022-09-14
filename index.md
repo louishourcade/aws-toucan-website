@@ -18,32 +18,24 @@ Want to see the outcome? Look at the following charts
 
 # Shark attack visualisations
 
-<div>
-<script async src="https://presales.toucantoco.com/scripts/embedLauncher.js?id=836c27fc-5902-45a8-b746-3c77e24facfc&panel=true&title=true" type="text/javascript"></script>
-</div>
+<iframe style="border: 0; overflow: hidden;" frameBorder="0" height="100vh" width="100%" src="https://presales.toucantoco.com/embed.html?id=836c27fc-5902-45a8-b746-3c77e24facfc&panel=true&title=true"></iframe>
 
-<div>
-<script async src="https://presales.toucantoco.com/scripts/embedLauncher.js?id=aa2959be-9bba-4710-9bc9-44e2adef3f12&panel=true&title=true" type="text/javascript"></script>
-</div>
+<iframe style="border: 0; overflow: hidden;" frameBorder="0" height="100vh" width="100%" src="https://presales.toucantoco.com/embed.html?id=aa2959be-9bba-4710-9bc9-44e2adef3f12&panel=true&title=true"></iframe>
 
-<div>
-<script async src="https://presales.toucantoco.com/scripts/embedLauncher.js?id=2787b2b6-ddd6-4f52-9f11-9d9fb559e579&panel=true&title=true" type="text/javascript"></script>
-</div>
+<iframe style="border: 0; overflow: hidden;" frameBorder="0" height="100vh" width="100%" src="https://presales.toucantoco.com/embed.html?id=2787b2b6-ddd6-4f52-9f11-9d9fb559e579&panel=true&title=true"></iframe>
 
-<div>
-<script async src="https://presales.toucantoco.com/scripts/embedLauncher.js?id=016a338c-8c5f-448b-a65b-51f0392b59e6&panel=true&title=true" type="text/javascript"></script>
-</div>
+<iframe style="border: 0; overflow: hidden;" frameBorder="0" height="100vh" width="100%" src="https://presales.toucantoco.com/embed.html?id=016a338c-8c5f-448b-a65b-51f0392b59e6&panel=true&title=true"></iframe>
 
 # Tutorial videos
 
 ### Launch Toucan trial and connect to Redshift Serverless
 
 <div style="text-align: center">
-<iframe width=1000rem height=600rem src="https://www.youtube.com/embed/rIcUjUKkz20" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+<iframe width="100%" height="600rem" src="https://www.youtube.com/embed/rIcUjUKkz20" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br />
 
 ### Create your first visualization with Toucan
 
-<div style="text-align: center">
-<iframe width=1000rem height=600rem src="https://www.youtube.com/embed/pa6UJsmLxSA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="600rem" src="https://www.youtube.com/embed/pa6UJsmLxSA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>

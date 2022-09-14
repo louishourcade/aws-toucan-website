@@ -1,8 +1,16 @@
 ---
 ---
 
+//@import "{{ site.theme }}";
 @import 'jekyll-theme-cayman';
 
 tctc-embed {
-height: 60rem;
+  height: 60rem;
+}
+
+.main-content {
+  //padding: 2rem 0rem;
+  @include large {
+    padding: 2rem 0rem;
+  }
 }
