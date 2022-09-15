@@ -1,8 +1,40 @@
 ---
 ---
 
-@import 'jekyll-theme-cayman';
+@import "{{ site.theme }}";
 
-tctc-embed {
-height: 60rem;
+.main-content {
+  @include large {
+    padding: 2rem 0rem;
+    max-width: 75rem;
+  }
+}
+
+.page-header img {
+  @include large {
+    margin: 0 1rem;
+  }
+
+  @include medium {
+    margin: 0 1rem;
+  }
+
+  @include small {
+    padding: 2rem 1rem;
+  }
+}
+
+.video-responsive {
+  overflow: hidden;
+  padding-bottom: 56.25%;
+  position: relative;
+  height: 0;
+}
+
+.video-responsive iframe {
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  position: absolute;
 }
