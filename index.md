@@ -11,7 +11,7 @@ I’m Alan, a Data Engineer at an Ocean Institute responsible for the sustainabi
 
 **🧐 How can I build an available, fully managed, and cost-efficient data warehousing solution? And after that, how can I build an application that provides my non-technical users the information they need to take meaningful decisions?**
 
-I have been scratching my head for a while, until I read [this blog post](https://aws.amazon.com/blogs/big-data/query-cross-account-aws-glue-data-catalogs-using-amazon-athena/) 🤯. 
+I have been scratching my head for a while, until I read [this blog post](https://aws.amazon.com/blogs/big-data/build-a-data-storytelling-application-with-amazon-redshift-serverless-and-toucan/) 🤯.
 
 I used this set up to provide the Shark Control department a data story telling application, and they absolutely love it ! 🎉
 
